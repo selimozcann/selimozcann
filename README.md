@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, my name is Selim
+#### I am Game Developer
+![I am Game Developer]
+(https://www.linkedin.com/in/selim-özcan-b49b03139/)
+https://twitter.com/SELMZCAN2
 
-<!--
-**selimozcann/selimozcann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Firstly
+I am a happy person.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I'm currently working on Unity Game Engine
+🌱 I'm currently practising C#
+💻 Interested in game development, graphics programming
+
+Skills: Unity / C#
