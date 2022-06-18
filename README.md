@@ -5,8 +5,8 @@
 
 
 ### Linkedln: https://www.linkedin.com/in/selim-özcan-b49b03139/
-### Contact: selimozcan2000@gmail.com
 ### Twitter: https://twitter.com/SELMZCAN2
+### Contact: selimozcan2000@gmail.com
 
 
 ###Firstly
@@ -17,4 +17,4 @@ I am a happy person.
 #### 🌱 I'm currently practising C#
 #### 💻 Interested in game development, graphics programming
 
-Skills: Unity / C#
+Skills: Unity / C# / Gameplay Programming
