@@ -3,13 +3,12 @@
 
 
 ### Linkedin:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/selim-özcan-b49b03139//) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' top ='linkedin' height='40'>](https://www.linkedin.com/in/selim-özcan-b49b03139//) 
 
-### Twitter:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](/https://twitter.com/SELMZCAN2) 
+### Twitter:[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' top ='twitter' height='40'>](/https://twitter.com/SELMZCAN2) 
 
 ### Instagram: 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/selim.cs/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' top ='instagram' height='40'>](https://www.instagram.com/selim.cs/)
 
 
 
