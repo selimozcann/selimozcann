@@ -1,8 +1,11 @@
 ### Hi there 👋, my name is Selim
 #### I am Game Developer
-![I am Game Developer]
-(https://www.linkedin.com/in/selim-özcan-b49b03139/)
+
+
+
 https://twitter.com/SELMZCAN2
+(https://www.linkedin.com/in/selim-özcan-b49b03139/)
+
 
 Firstly
 I am a happy person.
