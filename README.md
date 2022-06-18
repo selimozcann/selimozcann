@@ -3,8 +3,9 @@
 
 
 
-https://twitter.com/SELMZCAN2
-(https://www.linkedin.com/in/selim-özcan-b49b03139/)
+Twitter: https://twitter.com/SELMZCAN2
+Linkedln: (https://www.linkedin.com/in/selim-özcan-b49b03139/)
+Mail: selimozcan2000@gmail.com
 
 
 Firstly
