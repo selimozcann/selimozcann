@@ -4,13 +4,12 @@
 
 
 
+### Linkedln: https://www.linkedin.com/in/selim-özcan-b49b03139/
+### Contact: selimozcan2000@gmail.com
+### Twitter: https://twitter.com/SELMZCAN2
 
-![I am GitHub Readme Generator's creator]((https://www.linkedin.com/in/selim-özcan-b49b03139/))
-![I am GitHub Readme Generator's creator] ((selimozcan2000@gmail.com))
-![I am Game Developer](https://twitter.com/SELMZCAN2)
 
-
-Firstly
+###Firstly
 I am a happy person.
 
 
